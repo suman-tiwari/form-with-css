@@ -1,13 +1,32 @@
-	body{
-			font-family: "Arial", sans-serif;
+body{
+	font-family: "Arial", sans-serif;
 		}
-		table{
-			
 
+fieldset{
+	margin-left: 30%;
+	width:30%;
+	display:inline;
 		}
-		table tr td{
-			text-align: right;
-		}
-		fieldset{
-			display:inline;
-		}
+
+label{
+	width:40%;
+	float:left;
+
+}
+
+input, textarea{
+
+	background-color:#fee3ae;
+
+}
+
+.row{
+	margin-bottom: 10px;
+
+
+}
+.row input[type=submit]{
+	margin-right: 45%;
+	float:right;
+	
+}
