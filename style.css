@@ -4,9 +4,15 @@ body{
 
 fieldset{
 	margin-left: 30%;
-	width:30%;
-	display:inline;
+	width:378px;
+
 		}
+
+legend{
+	border:1px solid black;
+	background-color:#fee3ae;
+
+}
 
 label{
 	width:40%;
